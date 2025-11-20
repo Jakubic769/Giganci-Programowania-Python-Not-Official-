@@ -1,0 +1,94 @@
+{
+    "menu": [
+      {
+        "pizza": "Margherita",
+        "dodatki": ["ser mozzarella", "sos pomidorowy", "bazylia"],
+        "ceny": {
+          "S": 20,
+          "M": 25,
+          "L": 30
+        }
+      },
+      {
+        "pizza": "Pepperoni",
+        "dodatki": ["ser mozzarella", "sos pomidorowy", "plasterki pepperoni"],
+        "ceny": {
+          "S": 25,
+          "M": 30,
+          "L": 35
+        }
+      },
+      {
+        "pizza": "Capricciosa",
+        "dodatki": ["ser mozzarella", "szynka", "pieczarki", "oliwki"],
+        "ceny": {
+          "S": 29,
+          "M": 33,
+          "L": 38
+        }
+      },
+      {
+        "pizza": "Hawajska",
+        "dodatki": ["ser mozzarella", "szynka", "ananas"],
+        "ceny": {
+          "S": 28,
+          "M": 32,
+          "L": 37
+        }
+      },
+      {
+        "pizza": "Quattro Formaggi",
+        "dodatki": ["ser mozzarella", "gorgonzola", "parmezan", "ser ricotta"],
+        "ceny": {
+          "S": 30,
+          "M": 36,
+          "L": 40
+        }
+      },
+      {
+        "pizza": "Vegetariana",
+        "dodatki": ["ser mozzarella", "papryka", "cukinia", "pomidor", "pieczarki"],
+        "ceny": {
+          "S": 27,
+          "M": 33,
+          "L": 37
+        }
+      },
+      {
+        "pizza": "Diavola",
+        "dodatki": ["ser mozzarella", "sos pomidorowy", "salami pikantne", "papryczki chili"],
+        "ceny": {
+          "S": 32,
+          "M": 36,
+          "L": 42
+        }
+      },
+      {
+        "pizza": "Prosciutto e Funghi",
+        "dodatki": ["ser mozzarella", "szynka", "pieczarki"],
+        "ceny": {
+          "S": 27,
+          "M": 31,
+          "L": 36
+        }
+      },
+      {
+        "pizza": "Marinara",
+        "dodatki": ["sos pomidorowy", "czosnek", "oliwa z oliwek", "oregano"],
+        "ceny": {
+          "S": 26,
+          "M": 30,
+          "L": 35
+        }
+      },
+      {
+        "pizza": "Bufala",
+        "dodatki": ["ser mozzarella di bufala", "sos pomidorowy", "bazylia", "oliwa z oliwek"],
+        "ceny": {
+          "S": 33,
+          "M": 38,
+          "L": 43
+        }
+      }
+    ]
+  }
